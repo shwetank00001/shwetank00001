@@ -1,4 +1,4 @@
-### Working as a Full Stack developer <3👋
+### Working as a Full Stack MERN developer <3👋
 
 <!--
 **shwetank00001/shwetank00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
