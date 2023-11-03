@@ -41,7 +41,7 @@ Aiming to be the best !!
 
 ### 📊 Stats
 
-![Shwetank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetank00001&show_icons=true&theme=gruvbox)
+![Shwetank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetank00001&show_icons=true&theme=graywhite)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
